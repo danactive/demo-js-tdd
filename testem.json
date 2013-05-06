@@ -1,8 +1,8 @@
 {
 	"framework": "mocha",
-	"launch_in_dev": ["chrome","ie7"],
+	"launch_in_dev": ["chrome","ie8","PhantomJS"],
 	"src_files": [
-        "node_modules/expect.js/expect.js",
+		"node_modules/expect.js/expect.js",
 		"tests/*.js",
 		"app/*.js"
 	]
