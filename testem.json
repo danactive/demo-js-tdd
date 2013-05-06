@@ -1,0 +1,9 @@
+{
+	"framework": "mocha",
+	"launch_in_dev": ["chrome","ie7"],
+	"src_files": [
+        "node_modules/expect.js/expect.js",
+		"tests/*.js",
+		"app/*.js"
+	]
+}
